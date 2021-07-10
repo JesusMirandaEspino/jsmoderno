@@ -1,0 +1,25 @@
+{
+  "name": "jsmoderno",
+  "version": "1.0.0",
+  "description": "js moderno curso React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusMirandaEspino/jsmoderno.git"
+  },
+  "keywords": [
+    "Curso",
+    "React",
+    "Udemy",
+    "Javascript"
+  ],
+  "author": "Jesus Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusMirandaEspino/jsmoderno/issues"
+  },
+  "homepage": "https://github.com/JesusMirandaEspino/jsmoderno#readme"
+}
